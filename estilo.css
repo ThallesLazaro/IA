@@ -2881,3 +2881,7 @@ margin-left: auto;
 .w-80px{
 width:80px!important;
 }
+
+.chat-html *{
+all: revert;
+}
