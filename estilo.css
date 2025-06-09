@@ -691,7 +691,6 @@ html {
     padding: 0.5rem 1rem;
     max-width: 90%;
     border-radius: var(--rounded-box, 1rem);
-    min-height: 2.75rem;
     min-width: 2.75rem;
     --tw-bg-opacity: 1;
     background-color: var(--fallback-n, oklch(var(--n) / var(--tw-bg-opacity)));
